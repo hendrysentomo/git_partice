@@ -6,3 +6,6 @@ My first git project. Wish me luck.
 
 ## What to Expect
 Nothing
+
+This is text from branch_1
+I added new text
